@@ -1,8 +1,8 @@
-#ESX ONLY {tested on 1.8.5}
+# ESX ONLY {tested on 1.8.5}
 
-#fs_namechange
+# fs_namechange
 
-#Script Working
+# Script Working
 
 This is just a simple script to change name of player in game so player can do Rp you can use it has a stranger guy changes player name usig blackmoney or money or bank
 
