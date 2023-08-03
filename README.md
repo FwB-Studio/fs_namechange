@@ -13,6 +13,10 @@ This is just a simple script to change name of player in game so player can do R
 5) blip support
 6) Config file for changes
 
+# Will add in future
+*) Compatibilty for qbcore 
+*) Marker logic
+*) Support for use item as payment method
 
 Join Discord for more scripts
 
